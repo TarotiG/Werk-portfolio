@@ -1,6 +1,6 @@
 modules = ["python-3.10:v18-20230807-322e88b"]
 run = "python webapp/app.py"
-# run = "python scripts/plants.py"
+# run = "python scripts/coconuts.py"
 
 [nix]
 channel = "stable-23_05"
